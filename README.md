@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+A loan lending company is interested in learning the characteristics (or driver variables) that are the strongest predictors of loan default.The factors that may contribute to loan default are identified using consumer data and loan attributes. This is accomplished using data that was previously accessible in.csv format.
 
 
 ## Table of Contents
@@ -11,38 +11,33 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The goal of the research is to use EDA to identify those borrowers who are most likely to fail on their loans, hence minimising the financial loss to the lending company.
+This project is an exploratory data analysis for a case study on a loan lending club.
+to find the factors that would aid the lending club in determining who might default.
+All relevant information was provided in a.csv file.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The likelihood of default is significantly impacted by the loan's grade.
+Default likelihood and interest rate on the loan have a positive correlation.
+The likelihood of default has a positive correlation with the debt to income ratio (DTI).
+A higher concentration of negative public records also increases the likelihood of default.
+The likelihood of default on loans taken out for business reasons is significant.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - Pandas
+- library - Matplotlib
+- library - Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+UpGrad served as the basis for this undertaking.I like to thank Mr. S. Anand from Gramener and Mr. Sajan Kedia for teaching the EDA fundamentals.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@panderuchika] - feel free to contact me!
 
 
 <!-- Optional -->
